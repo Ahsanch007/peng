@@ -19,7 +19,7 @@ function App() {
       <div>
         <Navbar />
         <Banner />
-        <Eggs />
+        {/* <Eggs /> */}
         <Partners />
         <About />
         {/* <AboutText /> */}

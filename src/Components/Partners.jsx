@@ -6,8 +6,8 @@ export const Partners = () => {
         <div className="banner__bottom relative w-full h-[280px] mt-[340px]">
           <img className="snow_bg_partner" src="./assets//banner_elipse.svg" />
           <img className="snow_partner" src="./assets//snow.svg" />
-          <img className="ping_partner" src="./assets/ping.png" />
-          <img className="pinghand_partner" src="./assets/pinghand.png" />
+          <img className="ping_partner" src="./assets/cobra-man.png" />
+          {/* <img className="pinghand_partner" src="./assets/pinghand.png" /> */}
         </div>
         <div class="_partners container">
           <article class="partners">

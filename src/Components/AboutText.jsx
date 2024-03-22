@@ -10,13 +10,13 @@ const AboutText = () => {
           {/* Heading and Paragraph */}
           <div className="text-left rs1:w-[50%] rs2:w-[60%] rs3:w-[70%] w-[80%]">
             <h1 className="rs1:text-[68px] rs2:text-[64px] rs3:text-[60px] rs4:text-[55px] sm:text-[45px] text-[41px] font-bold">
-              ABOUT PENG
+              ABOUT Cobra Coin
             </h1>
             <p className="rs1:text-[24px] rs2:text-[23px] rs3:text-[21px] rs4:text-[23px] sm:text-[20px] text-[12px] font-bold">
-              WELCOME TO $PENG, THE ICY ADDITION TO THE SOLANA BLOCKCHAIN! OUR
+              WELCOME TO $Cobra, THE ICY ADDITION TO THE SOLANA BLOCKCHAIN! OUR
               SMALL YET MIGHTY PENGUIN, WITH A HINT OF PEPE THE FROG, BRINGS A
               FRESH BREEZE OF CREATIVITY TO THE DEGEN WORLD OF SOLANA. AS THE
-              NEWEST AND FRESHEST MEME TOKEN, $PENG IS HERE SPICE THINGS UP.
+              NEWEST AND FRESHEST MEME TOKEN, $Cobra IS HERE SPICE THINGS UP.
               JOIN US IN BRINGING WARMTH AND GATHERING LIQUIDITY TO THE FROSTY
               SOLANA CHAIN.
             </p>

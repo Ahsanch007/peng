@@ -5,7 +5,7 @@ const Tokenomics = () => {
     <div className="w-[1370px] max-w-[96vw] m-auto rs4:mt-[16rem] mt-[7rem]">
       <div className="text-center ">
         <h1 className="pt-[10px] pr-[20px] pl-[20px] tokens font-poppins-extrabold " style={{ fontWeight:'900' }}>
-          PENG TOKENOMICS
+        Cobra Coin TOKENOMICS
         </h1>
         <div className="grid place-items-center mt-6">
           <div className="flex justify-between mt-[20px] w-[100%] bg-[white] pl-[24px] pr-[8px] items-center rounded-[999px] pt-[15px] rs4:max-w-[731px] max-w-[340px] link">

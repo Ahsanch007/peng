@@ -36,7 +36,7 @@ const Avatar = () => {
           {/* HEADINGS */}
           <div className="text-center mb-6">
             <h1 className="avatar__title font-poppins-extrabold rs1:text-[64px] rs3:text-[48px] rs4:text-[44px] text-[38px] ">
-              RANDOM PENG
+              RANDOM Cobra Coin
             </h1>
             <h1 className="avatar__title1 font-poppins-extrabold rs1:text-[64px] rs3:text-[48px] rs4:text-[44px] text-[38px]">
               AVATAR GENERATOR

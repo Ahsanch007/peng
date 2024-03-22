@@ -37,13 +37,13 @@ const Banner = () => {
         {/* b IMag */}
         <div className="container">
           <div className="banner__top">
-            <img src="./assets/peng.svg" />
+            <img src="./assets/TEXT 01 (1).png" />
             <div className="banner__text">
               <div>
                 <div>
-                  <p className="font-poppins-bold">HI, I'M $PENG!</p>
+                  <p className="font-poppins-bold">HI, I'M $COBRA!</p>
                   <p className="font-poppins-bold">
-                    PEOPLE TELL ME I LOOK LIKE PEPE. I TELL THEM I'M A PENGUIN!
+                    THEY SAY I REMIND OF TATE, I SAY, I'M ALL ABOUT THAT WINNING STRIKE
                   </p>
                   <a href="https://t.me/pengonsol" className="font-poppins-bold">
                     JOIN COMMUNITY
