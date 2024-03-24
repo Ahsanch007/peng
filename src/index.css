@@ -96,7 +96,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  background-image: url("./assets/cloud_link2.svg");
+  background-image: url("../public/assets/cloud_link2.svg");
   /* font-family: var(--font-cutie); */
   font-size: 24px;
   text-decoration: none;
@@ -167,7 +167,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  background-image: url("./assets/cloud_link3.png");
+  background-image: url("../public/assets/cloud_link3.png");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center center;
@@ -175,7 +175,7 @@ body {
   height: 81px;
   /* font-family: var(--font-milkids); */
   font-size: 20px;
-  color: #19334a;
+  /* color: #19334a; */
   text-decoration: none;
   transition: 0.5s transform;
 }
@@ -242,6 +242,12 @@ body {
   position: relative;
   z-index: 3;
 }
+
+.white-back{
+  background-image: url('../public/assets/elipse.svg');
+}
+
+
 @media screen and (max-width: 1400px) {
   ._partners {
     background: #55adff;
@@ -258,7 +264,7 @@ body {
   text-transform: uppercase;
   /* font-family: var(--font-cutie); */
   text-align: center;
-  color: #19334a;
+  color: #fff;
   font-size: clamp(20px, 6vw, 54px);
 }
 .about_text {

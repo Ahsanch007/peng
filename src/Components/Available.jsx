@@ -7,7 +7,7 @@ const Available = () => {
         {/* ABoUt texT */}
         <div className="relative">
           {/* Ellipse Background */}
-          <div className="bg-[url('./assets/elipse.svg')] bg-contain bg-no-repeat w-full h-[432px] bg-center absolute top-0 left-0 flex items-center justify-center">
+          <div className="white-back bg-contain bg-no-repeat w-full h-[432px] bg-center absolute top-0 left-0 flex items-center justify-center">
             {/* Heading and Paragraph */}
             <div className="text-left rs1:w-[50%] rs2:w-[60%] rs3:w-[70%] w-[80%]">
               <h1 className="rs1:text-[68px] rs2:text-[64px] rs3:text-[60px] rs4:text-[55px] sm:text-[45px] text-[41px] font-poppins-extrabold">

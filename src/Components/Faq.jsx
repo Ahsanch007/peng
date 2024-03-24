@@ -3,13 +3,13 @@ import Accordian, { AccordianItem } from "./Accordian";
 
 const Faq = () => {
   return (
-    <section className="py-8 bg-[#2289e8] relative mt-[12rem]">
+    <section className="py-8   relative mt-[12rem]">
       {/* IMAGE  =======> */}
-      <img
+      {/* <img
         src="./assets/Ellipse_26.png"
         className="absolute left-[0] top-[-60px] z-[-2] w-[100vw] h-full"
         alt=""
-      />
+      /> */}
       <Wrapper styles={"px-2"}>
         <div className="flex gap-6">
           <div className="flex flex-1 flex-col space-y-8">

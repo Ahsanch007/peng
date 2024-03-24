@@ -45,7 +45,7 @@ const Banner = () => {
                   <p className="font-poppins-bold">
                     THEY SAY I REMIND OF TATE, I SAY, I'M ALL ABOUT THAT WINNING STRIKE
                   </p>
-                  <a href="https://t.me/pengonsol" className="font-poppins-bold">
+                  <a href="https://t.me/pengonsol" className="font-poppins-bold text-white">
                     JOIN COMMUNITY
                   </a>
                 </div>

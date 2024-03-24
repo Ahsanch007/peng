@@ -21,7 +21,7 @@ function App() {
         <Banner />
         {/* <Eggs /> */}
         <Partners />
-        <About />
+        {/* <About /> */}
         {/* <AboutText /> */}
         <Available />
         <Tokenomics />

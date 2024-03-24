@@ -20,7 +20,7 @@ const Tokenomics = () => {
         <div className="grid rs4:grid-cols-4 sm:grid-cols-2 grid-cols-1 gap-8 mt-20">
           {/* /first card */}
           <div className="tokens__card">
-            <img src="./assets/card1.png" className="token_img" alt="" />
+            <img src="./assets/cobra-man(1).png" className="token_img" alt="" />
             <div className="text-left mt-4">
               <p className="text-[#19334a] text-[20px] mt-[5px] font-poppins-bold ">
                 TAXES
@@ -32,7 +32,7 @@ const Tokenomics = () => {
 
           {/* /first card */}
           <div className="tokens__card">
-            <img src="./assets/card2.png" className="token_img" alt="" />
+            <img src="./assets/cobra-man(1).png" className="token_img" alt="" />
             <div className="text-left mt-4">
               <p className="text-[#19334a] text-[20px] mt-[5px] font-poppins-bold">
                 MINT & FREEZE
@@ -44,7 +44,7 @@ const Tokenomics = () => {
 
           {/* /first card */}
           <div className="tokens__card">
-            <img src="./assets/card3.png" className="token_img" alt="" />
+            <img src="./assets/cobra-man(1).png" className="token_img" alt="" />
             <div className="text-left mt-4">
               <p className="text-[#19334a] text-[20px] mt-[5px] font-poppins-bold">
                 LIQUIDITY
@@ -56,7 +56,7 @@ const Tokenomics = () => {
 
           {/* /first card */}
           <div className="tokens__card">
-            <img src="./assets/card4.png" className="token_img" alt="" />
+            <img src="./assets/cobra-man(1).png" className="token_img" alt="" />
             <div className="text-left mt-4">
               <p className="text-[#19334a] text-[20px] mt-[5px] font-poppins-bold">
                 TOTAL SUPPLY
